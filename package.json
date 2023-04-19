@@ -1,8 +1,8 @@
 {
   "name": "node-libs-expo-polyfills",
   "version": "1.2.1",
-  "author": "Tobias Koppers @sokra",
-  "description": "Node core modules for React Native",
+  "author": "Steven Barnett",
+  "description": "Node core modules for Expo",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StevenBarnett1/node-libs-expo.git"
